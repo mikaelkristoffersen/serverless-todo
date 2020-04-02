@@ -1,0 +1,12 @@
+{
+  "name": "serverless-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mikaelkristoffersen/serverless-todo.git",
+  "author": "<mikaelkristoffersen@gmail.com>",
+  "license": "MIT",
+  "private":true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
